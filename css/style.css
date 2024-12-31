@@ -127,7 +127,7 @@ img {
       text-decoration: none;
       color: inherit;
     }
-    ::before {
+    &::before {
       content: "";
       position: absolute;
       width: 40px;
